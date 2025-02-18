@@ -117,6 +117,13 @@ Updated HTML Structure to Follow
             text-align: left;
             font-family: 'Montserrat', sans-serif;
         }
+        h2 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 10px;
+
+        }
         /* Header Section */
         header {
             background: linear-gradient(135deg, #2980b9, rgb(226, 225, 227));
@@ -206,7 +213,6 @@ Updated HTML Structure to Follow
         .quiz, .assignment {
             background-color: #f3f3f3;
             padding: 25px;
-            margin-top: 30px;
             border-radius: 8px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
